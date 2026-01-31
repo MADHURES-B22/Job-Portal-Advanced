@@ -186,13 +186,14 @@ Maven
 MySQL (or H2)
 
 Steps
-1) git clone https://github.com/your-username/job-portal.git
-2) cd backend
-3) mvn spring-boot:run
-
+1) Download the file
+2) Open using Intellij
+3) configure Application.properties
+4) run
 
 Backend will be available at:
 http://localhost:8080
 
 You can test APIs using Postman
+
 
